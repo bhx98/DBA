@@ -1,2 +1,2 @@
 # DBA
-Usefull Scripts for SQL DBA
+Scripts for SQL Developer & DBA 
