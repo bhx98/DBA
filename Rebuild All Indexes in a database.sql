@@ -1,0 +1,1 @@
+EXEC sp_MSForEachTable 'ALTER INDEX ALL ON ? REBUILD'
