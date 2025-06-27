@@ -35,6 +35,13 @@ Monitoring database storage and proactively planning for future capacity needs.
 Database Upgrades and Migrations:
 Planning and executing database upgrades and migrations to newer versions or platforms. 
 
+Check for latest update and Cover probably SQL Server vulnerability:
+SQL Server Vulnerability-Last Update
+CU (Cumulative Update)
+GDR (General Distribution Release)
+Hotfix
+Service Pack
+CVE (Common Vulnerabilities and Exposures)
 
 ###Additional Responsibilities (depending on the organization and DBA level):
 
