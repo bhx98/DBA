@@ -16,7 +16,8 @@ Implementing and managing backup and recovery strategies to protect data from lo
 
 **Security** Management:
 Implementing and maintaining security policies, managing user access, and protecting sensitive data from unauthorized access. 
--Regularyly check Vulnerability Assesment in SSMS Database Task
+
+- check Vulnerability Assesment in SSMS Database Task
 
 Performance Tuning:
 Optimizing database performance through query tuning, index management, and other techniques. 
