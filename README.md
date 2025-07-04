@@ -23,6 +23,7 @@ Implementing and maintaining security policies, managing user access, and protec
 **Performance** Tuning:
 Optimizing database performance through query tuning, index management, and other techniques. 
 - PerfMon Windows OS
+- Database Engine Tuning Advisor Tool
 
 Troubleshooting and Problem Solving:
 Diagnosing and resolving database-related issues, including performance problems, connectivity issues, and data corruption. 
