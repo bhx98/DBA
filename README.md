@@ -18,6 +18,7 @@ Implementing and managing backup and recovery strategies to protect data from lo
 Implementing and maintaining security policies, managing user access, and protecting sensitive data from unauthorized access. 
 
 - check Vulnerability Assesment in SSMS Database Task for ( master database in Instance Level) and can be done for specific database
+- Disable Guest Account
 
 Performance Tuning:
 Optimizing database performance through query tuning, index management, and other techniques. 
