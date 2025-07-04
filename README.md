@@ -20,8 +20,9 @@ Implementing and maintaining security policies, managing user access, and protec
 - check Vulnerability Assesment in SSMS Database Task for ( master database in Instance Level) and can be done for specific database
 - Disable Guest Account
 
-Performance Tuning:
+**Performance** Tuning:
 Optimizing database performance through query tuning, index management, and other techniques. 
+- PerfMon Windows OS
 
 Troubleshooting and Problem Solving:
 Diagnosing and resolving database-related issues, including performance problems, connectivity issues, and data corruption. 
