@@ -34,6 +34,8 @@ Diagnosing and resolving database-related issues, including performance problems
       - Extended Event
       - Index Analysis
       - Query Optimization
+
+        
 Database Maintenance:
 Performing regular maintenance tasks such as index rebuilds, statistics updates, and database integrity checks. 
 
