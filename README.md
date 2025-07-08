@@ -25,9 +25,15 @@ Optimizing database performance through query tuning, index management, and othe
 - PerfMon Windows OS
 - Database Engine Tuning Advisor Tool
 
-Troubleshooting and Problem Solving:
+**Troubleshooting** and Problem Solving:
 Diagnosing and resolving database-related issues, including performance problems, connectivity issues, and data corruption. 
-
+- Syntax Error
+- Performance Problems:
+    - Identify Bottleneck
+      - SQL Profiler
+      - Extended Event
+      - Index Analysis
+      - Query Optimization
 Database Maintenance:
 Performing regular maintenance tasks such as index rebuilds, statistics updates, and database integrity checks. 
 
