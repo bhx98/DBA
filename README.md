@@ -24,7 +24,9 @@ Implementing and maintaining security policies, managing user access, and protec
 Optimizing database performance through query tuning, index management, and other techniques. 
 - PerfMon Windows OS
 - Database Engine Tuning Advisor Tool
-
+*****SQL Server First Responder Kit by BrentOzar*****
+  -SQL Server First Responder Kit (https://www.brentozar.com/)
+  
 **Troubleshooting** and Problem Solving:
 Diagnosing and resolving database-related issues, including performance problems, connectivity issues, and data corruption. 
 - Syntax Error
