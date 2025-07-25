@@ -22,6 +22,10 @@ Implementing and maintaining security policies, managing user access, and protec
 
 **Performance** Tuning:
 Optimizing database performance through query tuning, index management, and other techniques. 
+- Identifying long-running queries or blocking sessions.
+- Analyzing index fragmentation and suggesting rebuilds/reorganizations.
+- Monitoring CPU, memory, and disk usage.
+- Finding the top CPU-consuming statements.
 - PerfMon Windows OS
 - Database Engine Tuning Advisor Tool
 -  BrentOzar Guids
