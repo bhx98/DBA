@@ -39,6 +39,8 @@ Diagnosing and resolving database-related issues, including performance problems
       - SQL Profiler
       - Extended Event
       - Index Analysis
+        
+         https://ola.hallengren.com/sql-server-index-and-statistics-maintenance.html
       - Query Optimization
 
         
