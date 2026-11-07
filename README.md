@@ -84,3 +84,4 @@ Generating reports and performing data analysis using SQL Server Reporting Servi
 3.create archive database in same or other server
 
 
+default trace enabled
