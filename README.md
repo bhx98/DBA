@@ -77,3 +77,10 @@ Assisting with database design and development, including creating tables, views
 
 Reporting and Analysis:
 Generating reports and performing data analysis using SQL Server Reporting Services (SSRS) or other tools. 
+
+###Archive Large Data:
+1.partitioning
+2.new table same in same database
+3.create archive database in same or other server
+
+
